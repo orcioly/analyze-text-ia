@@ -24,15 +24,15 @@ Para efeito de portfólio e conforme a atividade proposta, o arquivo `inputs/sen
 
 #### Imagem 01:
 
-![Consulta à IA](src/images/image01.png)
+![Consulta à IA](./src/images/image01.png)
 
 #### Imagem 02:
 
-![Consulta à IA](src/images/image02.png)
+![Consulta à IA](./src/images/Image02.png)
 
 #### Imagem 03:
 
-![Consulta à IA](src/images/image03.png)
+![Consulta à IA](./src/images/image03.png)
 
 ## 🔗 Possibilidades Futuras
 
